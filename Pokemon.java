@@ -42,4 +42,5 @@ public class Pokemon {
         System.out.printf("%s ataca a %s con %s\n", nombre, pokemon.getNombre(), movimiento);
         pokemon.recibirAtaque(movimiento);
     }
+ 
 }   
